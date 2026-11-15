@@ -1,6 +1,6 @@
 # 🧋 Boba Panic
 
-Une mini-usine kawaii de bubble tea, jouable dans le navigateur sur PC et sur téléphone.
+Une mini-usine mignonne de bubble tea, jouable dans le navigateur sur PC et sur téléphone.
 
 **▶ Jouer : https://nihirii.github.io/boba-panic/**
 
